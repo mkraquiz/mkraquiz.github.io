@@ -11,7 +11,7 @@ labels:
 
 <img class="ui tiny left circular floated image" src="../images/language.jpg">
 
-Learning how to program is like learning a foreign language, it is not easy and it takes time. Now, I am learning another language, Javascript. Compare to the other programming languages that I know, I think Javascript is simpler. It is not as strict as other languages so you can code faster. A lot of people would say that Javascript is a bad programming language because it has quite a few warts but all programming languages has their ups and downs.
+Learning how to program is like learning a foreign language, it is not easy and it takes time. Now, I am learning another language, Javascript. Compare to the other programming languages that I know, I think Javascript is simpler. It is not as strict as other languages so you can code faster. A lot of people would say that Javascript is a bad programming language because it has quite a few warts but all programming languages has their ups and downs. 
 
 
 

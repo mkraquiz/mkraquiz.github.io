@@ -6,7 +6,7 @@
     "email": "mkraquiz@hawaii.edu",
     "phone": "",
     "website": "https://mkraquiz.github.io",
-    "summary": "I am studying for a B.S. in Computer Science: Security Science at the University of Hawaii at Manoa.",
+    "summary": "I am studying for a B.S. in Computer Science: Security Science and B.A. in Philippine Language and Literature at the University of Hawaii at Manoa.",
     "location": {
       "address": "",
       "postalCode": "96797",
@@ -39,33 +39,47 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows",
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+        {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Philippine Language and Literature (expected Spring, 2022)",
+      "studyType": "B.A.",
+      "startDate": "Fall 2018",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "Fall 2016",
+      "endDate": "Spring 2018",
       "gpa": "",
       "courses": [
       ]

@@ -8,7 +8,7 @@ title: CPS Conference
 date: 2019
 labels:
   - tech support
-summary: 
+summary: Setting up equipments for the conference
 ---
 
 <img class="ui tiny left circular floated image" src="../images/CPS_conference2019.jpg">

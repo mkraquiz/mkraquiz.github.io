@@ -9,7 +9,7 @@ date: 2019
 labels:
   - website
   - products
-summary: 
+summary: I updated the product information for the new website of the company I was working for.
 ---
 
 <img class="ui tiny left circular floated image" src="../images/CRDG.jpg">

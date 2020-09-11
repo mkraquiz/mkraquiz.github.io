@@ -25,12 +25,12 @@ Is It a Smart or a Not Smart Question?
 ---
 Not smart question example from StackOverflow:
 
-(https://stackoverflow.com/questions/63843562/circle-shape-using-css)
+[circle shape using css](https://stackoverflow.com/questions/63843562/circle-shape-using-css)
 
 This person is asking how to create a specific shape using css or any other technique. He provided what needs to be done to the shape that he needs to create , but he did not provide anything about what he tried to create the shape. It looks like a homework and he is just waiting for someone to give the solution.
 
 Smart question example from StackOverflow:
 
-(https://stackoverflow.com/questions/5876/how-do-i-prevent-dnsmasq-from-appending-my-domain-name-to-invalid-domain-request)
+[How do I prevent dnsmasq from appending my domain name to invalid domain requests?](https://stackoverflow.com/questions/5876/how-do-i-prevent-dnsmasq-from-appending-my-domain-name-to-invalid-domain-request)
 
 This person is asking how will he prevent dnsmasq from appending his domain name to invalid domain requests. He gave details about the problem that he is experiencing to make his question clear. He also provided the steps that he did and the results that he got. 

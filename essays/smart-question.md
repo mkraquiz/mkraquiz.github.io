@@ -20,6 +20,7 @@ People often say "There is no such thing as a stupid question." But is there rea
 
 To ask a question in smart way make your question specific and clear. Also, provide the solutions or steps that you have done prior to asking for help to eliminate other possible solutions that will be given by the experts or skilled people. By providing the solutions or steps that you did, it might give the person who is answering the question an idea how the problem occur and how to solve it. 
 
+For more tips on asking smart questions, you can read Eric Steven Raymond essay ["How to ask questions the smart way."](http://www.catb.org/esr/faqs/smart-questions.html)
 
 Is It a Smart or a Not Smart Question?
 ---

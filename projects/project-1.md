@@ -3,9 +3,9 @@ layout: project
 type: project
 published: true
 image: images/crdg-1.png
-title: Product Update
+title: Product Update for a Website
 # All dates must be YYYY-MM-DD format!
-date: 2019
+date: 2019-07
 labels:
   - website
   - products

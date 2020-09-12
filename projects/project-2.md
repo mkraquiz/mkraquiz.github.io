@@ -11,9 +11,9 @@ labels:
 summary: Setting up equipments for the conference
 ---
 
-<img class="ui tiny left circular floated image" src="../images/CPS_conference2019.jpg">
+<img class="ui left circular floated image" src="../images/CPS_conference2019.jpg">
 
-The Center for Philippine Studies at University of Hawaii at Manoa held a conference last year (November 2019). I was working for the department that organized the conference as a student assistant. The department asked their student assistants to help out for the event. Either they can help with the preparation and/or during the event.
+The Center for Philippine Studies at University of Hawaii at Manoa held a conference on November 2019. I was working for the department that organized the conference as a student assistant. The department asked their student assistants to help out for the event. Either they can help with the preparation and/or during the event.
 
 Days before the event, I was helping with testing the equipments. We needed to make sure that everything is ready to be used for the day of the conference. First, we tested the timer and it's remote. Second, we tested if the microphones that we have are still working properly or if we need a new one. Third, we tested the speaker. It was a new speaker so we tried how our phones and laptops can connect to the speaker using Bluetooth. Lastly, we tested the walkie talkies. None of use used one before so we were figuring out how can we communicate using it.
 

@@ -11,7 +11,7 @@ labels:
 summary: Setting up equipments for the conference
 ---
 
-<img class="ui top image" src="../images/CPS_conference2019.jpg">
+<img class="ui medium left floated squared image" src="../images/CPS_conference2019.jpg">
 
 The Center for Philippine Studies at University of Hawaii at Manoa held a conference on November 2019. I was working for the department that organized the conference as a student assistant. The department asked their student assistants to help out for the event. Either they can help with the preparation and/or during the event.
 

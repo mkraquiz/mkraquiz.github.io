@@ -100,27 +100,27 @@
       "company": "CRDG MaPS, University of Hawaii at Manoa",
       "position": "Student Assistant",
       "website": "",
-      "startDate": "May 2019",
+      "startDate": "2019-05",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        //"provide general office support and customer servie",
-        //"clerical duties including word processing, preparing fiscal documents, filing, and inputing data",
-        //"customer service includes answering phones, cash register sales, and assisting customers",
-        //"distrubution duties include packing and shipping orders, preparing shipping quotes, delivery and pickup",
-        //"printshup duties including binding, lamination, and photocopying"
+        "provide general office support and customer servie",
+        "clerical duties including word processing, preparing fiscal documents, filing, and inputing data",
+        "customer service includes answering phones, cash register sales, and assisting customers",
+        "distrubution duties include packing and shipping orders, preparing shipping quotes, delivery and pickup",
+        "printshup duties including binding, lamination, and photocopying"
       ]
     },
     {
       "company": "Center for Philippine Studies, University of Hawaii at Manoa",
       "position": "Student Assistant",
       "website": "",
-      "startDate": "February 2019",
-      "endDate": "May 2020",
+      "startDate": "2019-02",
+      "endDate": "2020-05",
       "summary": "",
       "highlights": [
-        //"help supervisor with her current projects like legal glossary that contains both English and Tagalog translation",
-        //"run errands and other clerical duties as assigned"
+        "help supervisor with her current projects like legal glossary that contains both English and Tagalog translation",
+        "run errands and other clerical duties as assigned"
       ]
     }
   ],
@@ -129,8 +129,8 @@
       "organization": "The Center for Philippine Studies Conference",
       "website": "",
       "position": "Technical support",
-      "startDate": "November 5, 2019",
-      "endDate": "November 6, 2019",
+      "startDate": "2019-11-05",
+      "endDate": "2019-11-06",
       "summary": "",
       "highlights": [
         "control the music and timer for each presenter",
@@ -141,8 +141,8 @@
       "organization": "PAMANTASAN at University of Hawaii at Manoa",
       "website": "",
       "position": "Presenter",
-      "startDate": "October 7, 2018",
-      "endDate": "October 7, 2018",
+      "startDate": "2018-10-07",
+      "endDate": "2018-10-07",
       "summary": "",
       "highlights": [
         "Presented on behalf of an organization called KASAMA"

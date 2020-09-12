@@ -126,43 +126,41 @@
   ],
   "volunteer": [
     {
-      "organization": "",
+      "organization": "The Center for Philippine Studies Conference",
       "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
+      "position": "Technical support",
+      "startDate": "November 5, 2019",
+      "endDate": "November 6, 2019",
       "summary": "",
       "highlights": [
-        "",
-        ""
+        "control the music and timer for each presenter",
+        "set up and clean up of equipments after the event"
       ]
     },
     {
-      "organization": "",
+      "organization": "PAMANTASAN at University of Hawaii at Manoa",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Presenter",
+      "startDate": "October 7, 2018",
+      "endDate": "October 7, 2018",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Presented on behalf of an organization called KASAMA"
       ]
     }
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2016-2018",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school"
     },
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "First Hawaiian Bank Scholarship",
+      "date": "2017-2019",
+      "awarder": "First Hawaiian Bank",
+      "summary": "Scholarsip awarded to the children of the First Hawaiian Bank employees who are pursuing higher education"
     }
   ],
   "references": [

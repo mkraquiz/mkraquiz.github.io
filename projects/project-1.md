@@ -12,7 +12,7 @@ labels:
 summary: I updated the product information for the new website of the company I was working for.
 ---
 
-<img class="ui medium top image" src="../images/CRDG.jpg">
+<img class="ui medium top floated image" src="../images/CRDG.jpg">
 
 Last year, the company that I was working for changed the website that they are using to better serve their costumers. Because it is a new website, we need to transfer all of the information from the old website to the new one. My advisor assigned me to update/input all of the information for each of the products that we have. 
 

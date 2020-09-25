@@ -5,7 +5,7 @@ published: true
 image: images/crdg-1.png
 title: Product Update for a Website
 # All dates must be YYYY-MM-DD format!
-date: 2019-07
+date: 2019-07-01
 labels:
   - website
   - products

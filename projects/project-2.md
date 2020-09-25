@@ -5,7 +5,7 @@ published: true
 image: images/CPS.png
 title: CPS Conference
 # All dates must be YYYY-MM-DD format!
-date: 2019
+date: 2019-11-05
 labels:
   - tech support
 summary: Setting up equipments for the conference

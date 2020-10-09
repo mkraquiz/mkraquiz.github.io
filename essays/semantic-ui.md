@@ -25,4 +25,6 @@ Building web pages got a little simpler using Semantic UI. We have been recreati
 	       
          <a class="item"><i class="facebook f icon"></i></a>
 
-If you want to make the icon bigger of smaller, you can just specify it and put "large" or "tiny". 
+If you want to make the icon bigger of smaller, you can just specify it and put "large" or "tiny". There's a lot more you can include to your website like buttons, labels, etc. and the [Semantic UI website](https://semantic-ui.com/elements/button.html) offers different ways and designs to include the items that you want in your web pages. 
+
+Because of its simplicity, it makes me excited to work with frameworks. I was able te recreate web pages. Even though it speeds up the development of an front end application, it does not mean its easier. It can still be frustating at times because you really have to make your words specific otherwise it will not do what you want it to do. Overall, UI frameworks help a lot with building or recreating web pages.

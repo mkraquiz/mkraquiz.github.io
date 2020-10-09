@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Is Coding Standards Necessary?
+title: Are Coding Standards Necessary?
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-24
 labels:

@@ -17,7 +17,7 @@ UI Framework or User Interface Framework is a set of classes and interfaces that
 
 Working with Semantic UI
 ---
-<img class="ui center circular floated image" width="50px" src="https://www.xploreitcorp.com/wp-content/uploads/2018/05/d1.png">
+<img class="ui medium center circular floated image" src="https://www.xploreitcorp.com/wp-content/uploads/2018/05/d1.png">
 
 For the past week, I have been learning and working with Semantic UI. I've watched a lot of videos about Semantic UI like its elements, collections, views, modules, and API to understand how it works and how to use it. I've spent about 3 hours watching videos by Nate Taylor on [PluralSight](https://app.pluralsight.com/library/courses/semantic-ui-2-0/table-of-contents) teaching the viewers how to work with Semantic UI. These videos were very helpful as it define everything first and gives examples on how to use it.
 

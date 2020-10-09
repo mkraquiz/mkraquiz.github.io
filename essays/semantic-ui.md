@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: Framing Makes It Simpler
 # All dates must be YYYY-MM-DD format!
 date: 2020-10-08
 labels:

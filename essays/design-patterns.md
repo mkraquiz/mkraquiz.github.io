@@ -12,13 +12,14 @@ Understanding Design Patterns
 ---
 First of all, what is design patterns? According to the dictionary, 
 
+
     "A design pattern is a general repeatable solution to a commonly occurring
     problem in software design. A design pattern is not a finished design that 
     can be transformed directly into code. It is a description or template for 
     how to solve a problem that can be used in many different situations." 
     
-Software engineers are documenting solutions to commonly occuring problems so they don't have to start from scratch when it comes to solving common problems. 
-
+    
+Software engineers are documenting solutions to commonly occurring problems so they don't have to start from scratch when it comes to solving problems. These documented solutions can speed up the development process by providing tested examples. Design patterns are divided into a lot of categories and here are the most common design patterns categories:
 
    <img src="/images/design-patterns-image-1.png">
 

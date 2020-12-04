@@ -17,7 +17,7 @@ First of all, what is design patterns? According to the dictionary,
     can be transformed directly into code. It is a description or template for 
     how to solve a problem that can be used in many different situations." 
     
-    <img src="/images/design-patterns-image-1.png">
+   <img src="/images/design-patterns-image-1.png">
 
 
 Do I Use Design Patterns?

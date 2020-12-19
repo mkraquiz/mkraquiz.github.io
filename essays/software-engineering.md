@@ -23,3 +23,5 @@ For the final project of my Software Engineering class, I had to work in a group
 
 Open Source Software Development
 --
+
+Fisrt of all, what is "open source software developmet"? It is basically a software that you developed and is accessable by public. When my group developed our web application, it was very exciting to think I get to finally develop and publish an application for everyone to use. I was able to apply what I learned from my Software Engineering class and develop pages that are part of the application. I was very happy with the outcome of our web application until we had to get community feedback. I was satisfied with outcome of our web application but I can't help it to get nervous what the public or community have to say about it. Seeing the response from the community, they were also satisfied with the looks and features of our application but of course there are things that we need to improve and add to our application. 

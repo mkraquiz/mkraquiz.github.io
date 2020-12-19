@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: 
+title: Thoughts on Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-17
 labels:
   - Software Engineering
-  - Design Patterns
+  - Open Source Software Development
   - Agile Project Management
 ---
 

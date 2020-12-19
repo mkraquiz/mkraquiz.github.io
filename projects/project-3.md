@@ -16,7 +16,7 @@ summary: As a final project for my Software Engineering class, my group created 
 What is ManoaEats?
 --
 
-<img src="../images/user-home.png">
+<img class="ui medium menter floated squared image" src="../images/user-home.png">
 
 ManoaEats is a web application that helps students and faculty of UH Manoa to find what kind of vendors and foods available on campus. They will have the ability to search the vendors, look at specific menu items and style of food, and what food item is currently available. In the development of this application, I worked with Jerome Gallego, Yeji Han, and Christine Guira.
 
@@ -24,7 +24,7 @@ ManoaEats is a web application that helps students and faculty of UH Manoa to fi
 My Contributions
 --
 
-<img src="../images/manoaeats.png">
+<img class="ui medium menter floated squared image" src="../images/manoaeats.png">
 
 One feature of our web application that I was able to make was the Landing page (the above image) where it will be the first page that the users will see when they visit our web application. It also gives information to the general users (students and faculties) on what they can do with the web application and it gives instructions to the vendors that wants to add their business.
 
@@ -32,7 +32,7 @@ Another feature that I worked on, but unfortunately was not able to make it to t
 
 I also worked on the testcafe where it will test the pages that our wep application has. It will check if the pages are showing up and if the functions are working.
 
-<img src="../images/testcafe.png">
+<img class="ui medium menter floated squared image" src="../images/testcafe.png">
 
 What I learned
 --

@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/.png
+image: images/manoaeats.png
 title: ManoaEats
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-18
@@ -16,11 +16,17 @@ summary: As a final project for my Software Engineering class, my group created 
 What is ManoaEats?
 --
 
+<img src="images/user-home.png">
+
 My Contributions
 --
 
+<img src="images/manoaeats.png">
+
 What I learned
 --
+
+
 
 Want to learn more about ManoaEats?
 --
